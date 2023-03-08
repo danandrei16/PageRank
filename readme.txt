@@ -1,3 +1,5 @@
+PageRank Iterative and Algebraic in Matlab
+
 functia inputs.m:
 Citesc toate numerele din fisier. Mai intai pe N, apoi odata cu citirea celor N linii
 voi construi matricea de adiacenta A (initial cu 0 peste tot), cu 1 unde exista legaturi
